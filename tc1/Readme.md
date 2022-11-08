@@ -3,7 +3,7 @@
 ## wilian Calderon
 
 
-**datos personales**
-*Cuidad de origen: David Calderon
-*idiomas: Español, ingles. italiano
-*Deportes: atletismo
+**Datos personales**
+ *Cuidad de origen: David Calderon
+ *idiomas: Español, ingles, italiano
+ *Deportes: atletismo
